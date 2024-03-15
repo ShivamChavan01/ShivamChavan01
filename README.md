@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on TuneHub<br><br>🌱 I’m currently learning React,js and node.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java<br><br>📫 How to reach me shivamrc189@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/13Zn6Q3h2AMjxJDK-ayFCr9FR8LPHjWob?usp=sharing<br><br>⚡ Fun fact I think I am Funny
+🔭 I’m currently working on Amazon - clone <br><br>🌱 I’m currently learning React,js and node.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java and javaScript <br><br>📫 How to reach me shivamrc189@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/13Zn6Q3h2AMjxJDK-ayFCr9FR8LPHjWob?usp=sharing<br><br>⚡ Fun fact I think I am Funny
 
 
 ## 🌐 Socials:
