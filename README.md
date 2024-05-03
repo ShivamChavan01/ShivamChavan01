@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on React-js Video Chat APP <br><br>🌱 I’m currently learning React,js and node.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java and javaScript <br><br>📫 How to reach me  at [G-mail](shivamrc189@gmail.com)<br><br>📄 Know about my experiences : [My Resume ](https://drive.google.com/file/d/1sxA3x-WV6P_d-Ab5ibNX0CtaoYoDE-l6/view?usp=drive_link)
+🔭 I’m currently working on React-js Video Chat APP <br><br>🌱 I’m currently learning React,js and node.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java and javaScript <br><br>📫 How to reach me  at [G-mail](shivamrc189@gmail.com)<br><br>📄 Know about my experiences : [My Resume ](https://tinyurl.com/rcshivam)
 <br><br>⚡ Fun fact : I think im good at Coding 🤣🤦‍♂️
 
 
