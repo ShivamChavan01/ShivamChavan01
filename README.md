@@ -1,6 +1,15 @@
 # 💫 About Me:
-🔭 I’m currently to Contributing To [jkube](https://github.com/eclipse-jkube/jkube) <br><br>🌱 I’m currently learning React,js and node.js<br><br>👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java and javaScript <br><br>📫 How to reach me  at [G-mail](shivamrc189@gmail.com)<br><br>📄 Know about my experiences : [My Resume ](https://drive.google.com/file/d/1j7FunViBSqNK76vKEN-YmsXrvOx1zAi5/view?usp=sharing)
-<br><br>⚡ Fun fact : I think That I know What I am Doing in the Code Base But You Know I  may be An Intern who Fucked Up the Code Base
+Hey, I'm Shivam! 😎
+Welcome to my GitHub playground!
+
+I’m contributing to cool open-source projects like  [jkube](https://github.com/eclipse-jkube/jkube), breaking things (intentionally... most of the time 😅), and solving problems with a dash of humor. You won’t get bored here—whether it's debugging, building new features, or cracking a few jokes along the way.
+
+I’m all about learning, growing, and having fun with code. Stick around—because just like my projects, I'm always evolving, and I promise it won’t be boring! 🚀🔥
+
+🔭 I’m currently to Contributing To  [jkube](https://github.com/eclipse-jkube/jkube) <br><br>
+🌱 I’m currently learning React,js and node.js<br><br>
+👯 I’m looking to collaborate on Frontend Projects<br><br>🤝 I’m looking for help with Learning React and Frontend technologies<br><br>💬 Ask me about java and javaScript <br><br>📫 How to reach me  at [G-mail](shivamrc189@gmail.com)<br><br>📄 Know about my experiences : [My Resume ](https://drive.google.com/file/d/1j7FunViBSqNK76vKEN-YmsXrvOx1zAi5/view?usp=sharing)
+<br><br>⚡ Fun Fact : I think I know what I’m doing in this codebase... but let’s be honest,  there’s a solid chance I’ve broken something spectacularly. If you’re reading this, I apologize in advance for any code chaos. 😬 Commit responsibly, folks! 😂
 
 
 ## 🌐 Socials:
