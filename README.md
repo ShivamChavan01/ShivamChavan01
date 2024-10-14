@@ -34,7 +34,7 @@ I’m all about learning, growing, and having fun with code. Stick around—beca
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ShivamChavan01&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
-![Snake animation](https://raw.githubusercontent.com/{ShivamChavan01}/{ShivamChavan01}/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/{ShivamChavan01}/output/github-contribution-grid-snake-dark.svg)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=ShivamChavan01&icon=6&color=12)](https://visitcount.itsvg.in)
