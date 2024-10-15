@@ -4,7 +4,7 @@ Welcome to my GitHub playground!
 
 I’m contributing to cool open-source projects like  [jkube](https://github.com/eclipse-jkube/jkube), breaking things (intentionally... most of the time 😅), and solving problems with a dash of humor. You won’t get bored here—whether it's debugging, building new features, or cracking a few jokes along the way.
 
-I’m all about learning, growing, and having fun with code. Stick around—because just like my projects, I'm always evolving, and I promise it won’t be boring! 🚀🔥
+I’m all about learning, growing, and having fun with code. Stick around—because just like my projects, I'm always evolving, and I promise it won’t be boring! 🚀🔥 
 
 🔭 I’m currently to Contributing To  [jkube](https://github.com/eclipse-jkube/jkube) <br><br>
 🌱 I’m currently learning React,js and node.js<br><br>
