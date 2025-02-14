@@ -1,7 +1,9 @@
 
 # 🚀 Shivam Chavan | DevOps & Open-Source Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=800&color=00F7FF&center=true&width=435&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;Kubernetes+%7C+AWS+%7C+Terraform)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=435&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;Kubernetes+%7C+AWS+%7C+Terraform)
+
+![GitHub Banner](https://github.com/ShivamChavan01/ShivamChavan01/blob/main/banner.gif)
 
 Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** who loves automating things, working with **Kubernetes, AWS, and Terraform**, and diving into cloud-native technologies. I also contribute to [JKube](https://github.com/eclipse-jkube/jkube) and break things (intentionally... most of the time 😅).
 
@@ -42,14 +44,17 @@ Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** w
 ---
 
 ## 📡 Tech Stack:
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,redux,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,mongodb" />
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,mongodb" />
+</p>
 
+---
 
 ## 🌐 Connect with Me:
-
+<p align="center">
 <a href="https://instagram.com/shivam.wtf"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shivamchavan01"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-
+</p>
 
 ---
 
@@ -66,6 +71,8 @@ I successfully completed **Hacktoberfest 2024**, contributing to open-source pro
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamChavan01&theme=tokyonight&hide_border=false" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChavan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
 </p>
+
+![Snake animation](https://github.com/ShivamChavan01/ShivamChavan01/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
@@ -87,5 +94,5 @@ I successfully completed **Hacktoberfest 2024**, contributing to open-source pro
 ---
 
 [![](https://visitcount.itsvg.in/api?id=ShivamChavan01&icon=6&color=12)](https://visitcount.itsvg.in)  
-
+```
 
