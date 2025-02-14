@@ -1,7 +1,8 @@
 
 # 🚀 Shivam Chavan | DevOps & Open-Source Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=4000&pause=500&color=00F7FF&center=true&width=435&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;Kubernetes+%7C+AWS+%7C+Terraform)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoSpace&duration=2000&pause=500&color=00FFBF&center=true&width=1035&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;JAVA+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT+%7C+REDUX+%7C+Kubernetes+%7C+AWS+%7C+Terraform)
+
 
 ![GitHub Banner](https://github.com/ShivamChavan01/ShivamChavan01/blob/main/banner.gif)
 
