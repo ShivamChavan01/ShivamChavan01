@@ -1,4 +1,7 @@
+
 # 🚀 Shivam Chavan | DevOps & Open-Source Enthusiast
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=8000&pause=800&color=00F7FF&center=true&width=435&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;Kubernetes+%7C+AWS+%7C+Terraform)
 
 Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** who loves automating things, working with **Kubernetes, AWS, and Terraform**, and diving into cloud-native technologies. I also contribute to [JKube](https://github.com/eclipse-jkube/jkube) and break things (intentionally... most of the time 😅).
 
@@ -39,37 +42,50 @@ Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** w
 ---
 
 ## 📡 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) ![PowerShell](https://img.shields.io/badge/powershell-%23512BD4.svg?style=for-the-badge&logo=powershell&logoColor=white) ![GitBash](https://img.shields.io/badge/GitBash-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326CE5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonaws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-%23D24939.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) ![Loki](https://img.shields.io/badge/Loki-%23006699.svg?style=for-the-badge&logo=grafana&logoColor=white)  
-# 🎉 Hacktoberfest 2024 Badges 🎉
-
- I successfully completed Hacktoberfest 2024 by contributing to open-source projects, including the [JKube](https://github.com/eclipse/jkube) repository.
-
-[![An image of @shivamchavan01's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/shivamchavan01)](https://holopin.io/@shivamchavan01)
-
-Check out all the badges I earned during Hacktoberfest 2024!
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,redux,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,mongodb" />
 
 
+## 🌐 Connect with Me:
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ShivamChavan01&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShivamChavan01&theme=neon&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChavan01&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ShivamChavan01&theme=blueberry&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ShivamChavan01&limit=5&theme=neon&combine_all_yearly_contributions=true)
+<a href="https://instagram.com/shivam.wtf"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/shivamchavan01"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShivamChavan01&icon=6&color=12)](https://visitcount.itsvg.in)
 
+## 🎉 Hacktoberfest 2024 Achievements 🎉
+I successfully completed **Hacktoberfest 2024**, contributing to open-source projects like [JKube](https://github.com/eclipse/jkube).  
 
+[![Holopin Badges](https://holopin.me/shivamchavan01)](https://holopin.io/@shivamchavan01)  
 
+---
+
+## 📊 GitHub Stats:
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=ShivamChavan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamChavan01&theme=tokyonight&hide_border=false" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChavan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies:
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ShivamChavan01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
+</p>
+
+---
+
+## 🔝 Top Contributed Repo:
+![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ShivamChavan01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
+
+---
+
+## ✍️ Random Dev Quote:
+![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=ShivamChavan01&icon=6&color=12)](https://visitcount.itsvg.in)  
 
 
