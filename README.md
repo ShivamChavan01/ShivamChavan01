@@ -52,10 +52,10 @@ Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** w
 ---
 
 ## 🌐 Connect with Me:
-<p align="center">
+
 <a href="https://instagram.com/shivam.wtf"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white"/></a>
 <a href="https://linkedin.com/in/shivamchavan01"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white"/></a>
-</p>
+
 
 ---
 
