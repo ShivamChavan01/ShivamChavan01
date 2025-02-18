@@ -1,7 +1,7 @@
 
-# 🚀 Shivam Chavan | DevOps & Open-Source Enthusiast
+# 🚀 Shivam Chavan | FrontEnd , DevOps & Open-Source Enthusiast
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoSpace&duration=2000&pause=500&color=00FFBF&center=true&width=1035&lines=DevOps+Engineer;Open-Source+Contributor;Cloud-Native+Enthusiast;JAVA+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT+%7C+REDUX+%7C+Kubernetes+%7C+AWS+%7C+Terraform)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoSpace&duration=2000&pause=500&color=00FFBF&center=true&width=1035&lines=DevOps+Engineer;Open-Source+Contributor;JAVA+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT+%7C+REDUX+%7C+Kubernetes+%7C+AWS+%7C+Terraform)
 
 
 ![GitHub Banner](https://github.com/ShivamChavan01/ShivamChavan01/blob/main/banner.gif)
@@ -21,7 +21,7 @@ Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** w
 
 ## 📂 Notable Projects:
 
-### **📧 Email Manager with Node.js & Kubernetes**
+### **📧 Email Manager with Node.js & Kubernetes** 
 **Tech Stack:** Node.js | Express.js | MongoDB | Docker | Kubernetes | YAML  
 - 🚀 Developed a containerized email management system with **scalable Kubernetes pods**.
 - ⚙️ Configured **Kubernetes ConfigMaps, Services, and LoadBalancers** for seamless communication.
@@ -46,7 +46,7 @@ Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** w
 
 ## 📡 Tech Stack:
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,mongodb" />
+<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,linux" />
 </p>
 
 ---
