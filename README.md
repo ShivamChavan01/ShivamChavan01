@@ -1,105 +1,131 @@
+<!-- Header -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1b27,100:00FFBF&height=200&section=header&text=Shivam%20Chavan&fontSize=50&fontColor=00FFBF&fontAlignY=38&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Open-Source%20Contributor&descAlignY=58&descColor=a9b1d6" />
+</div>
 
-# 🚀 Shivam Chavan | FrontEnd , DevOps & Open-Source Enthusiast
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=MonoSpace&duration=2000&pause=500&color=00FFBF&center=true&width=1035&lines=DevOps+Engineer;Open-Source+Contributor;JAVA+%7C+HTML+%7C+CSS+%7C+JAVASCRIPT+%7C+REACT+%7C+REDUX+%7C+Kubernetes+%7C+AWS+%7C+Terraform)
-
-
-![GitHub Banner](https://github.com/ShivamChavan01/ShivamChavan01/blob/main/banner.gif)
-
-Hey there! I'm **Shivam**, a passionate **DevOps and Open-Source Contributor** who loves automating things, working with **Kubernetes, AWS, and Terraform**, and diving into cloud-native technologies. I also contribute to [JKube](https://github.com/eclipse-jkube/jkube) and break things (intentionally... most of the time 😅).
-
----
-
-## 🔭 What I'm Currently Up To:
-- 🛠 **Contributing to Open-Source**: [JKube](https://github.com/eclipse-jkube/jkube)
-- 🌱 **Learning**: Jenkins, Monitoring Tools, Advanced Kubernetes
-- ☁️ **Exploring**: CI/CD, AWS, Terraform, Kubernetes
-- 👯 **Looking to Collaborate** on DevOps and Cloud-Native Projects
-- 💡 **Ask Me About**: Kubernetes, AWS (IAM, VPC, EC2), Docker, Java, JavaScript, SQL
-
----
-
-## 📂 Notable Projects:
-
-### **📧 Email Manager with Node.js & Kubernetes** 
-**Tech Stack:** Node.js | Express.js | MongoDB | Docker | Kubernetes | YAML  
-- 🚀 Developed a containerized email management system with **scalable Kubernetes pods**.
-- ⚙️ Configured **Kubernetes ConfigMaps, Services, and LoadBalancers** for seamless communication.
-
-### **🛠 JKube Open-Source Contributions**
-- ✅ Replaced **deprecated AssertJ `asList()` methods** in multiple test cases.
-- ✅ Fixed **unused imports** and improved code quality.
-- ✅ Refactored **Mockito-based tests**, replacing mocks with real objects.
-
-### **☁️ AWS Terraform Deployment**
-**Tech Stack:** Terraform | AWS (IAM, VPC, EC2) | Kubernetes  
-- 📌 Automated **AWS infrastructure deployment** using **Terraform**.
-- 🔧 Deployed **Kubernetes clusters on AWS** for scalable applications.
-
-### **🌐 Kubernetes Ingress Controller for Microservices**
-**Tech Stack:** Kubernetes | Nginx Ingress | Helm | AWS | Terraform  
-- 🚀 Designed and implemented **Ingress-based routing** for microservices architecture.
-- 🔄 Integrated **Nginx Ingress Controller** with Kubernetes to manage traffic efficiently.
-- 🔧 Automated deployment with **Helm and Terraform** for scalability.
-
----
-
-## 📡 Tech Stack:
-<p align="center">
-<img src="https://skillicons.dev/icons?i=java,html,css,js,react,git,docker,kubernetes,aws,terraform,prometheus,grafana,jenkins,linux" />
-</p>
-
----
-
-## 🌐 Connect with Me:
-<p align = "center">
-  <a href="https://instagram.com/shivam.wtf">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" style="height: 40px;">
+<div align="center">
+  <a href="https://readme-typing-svg.herokuapp.com">
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&duration=2000&pause=500&color=00FFBF&center=true&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;DevOps+%26+Cloud+Native+Enthusiast+%E2%9A%99%EF%B8%8F;Eclipse+JKube+Contributor+%F0%9F%94%A7;Angular+%7C+Spring+Boot+%7C+Kubernetes;Building+Things+That+Scale+%F0%9F%8C%8D" />
   </a>
-  
-  <a href="https://linkedin.com/in/shivamchavan01">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" style="height: 40px;">
+</div>
+
+<div align="center">
+  <a href="https://linkedin.com/in/ShivamChavan01">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-</p>
-
-
----
-
-## 🎉 Hacktoberfest 2024 Achievements 🎉
-I successfully completed **Hacktoberfest 2024**, contributing to open-source projects like [JKube](https://github.com/eclipse/jkube).  
-
-[![Holopin Badges](https://holopin.me/shivamchavan01)](https://holopin.io/@shivamchavan01)  
-
----
-
-## 📊 GitHub Stats:
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=ShivamChavan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChavan01&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</p>
-
-![Snake animation](https://github.com/ShivamChavan01/ShivamChavan01/blob/output/github-contribution-grid-snake.svg)
+  <a href="mailto:shivamrc189@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://github.com/ShivamChavan01">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=ShivamChavan01&style=for-the-badge&color=00FFBF&label=PROFILE+VIEWS"/>
+</div>
 
 ---
 
-## 🏆 GitHub Trophies:
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ShivamChavan01&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" />
-</p>
+## 🧠 About Me
 
----
-
-## 🔝 Top Contributed Repo:
-![Top Contributions](https://github-contributor-stats.vercel.app/api?username=ShivamChavan01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)  
-
----
-
-## ✍️ Random Dev Quote:
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)  
-
----
-
-[![](https://visitcount.itsvg.in/api?id=ShivamChavan01&icon=6&color=12)](https://visitcount.itsvg.in)  
+```
+const shivam = {
+  role:        "Full Stack Developer @ Eazytag",
+  stack:       ["Angular", "TypeScript", "Spring Boot", "Java", "MongoDB"],
+  devops:      ["Docker", "Kubernetes", "Terraform", "AWS", "Jenkins", "CI/CD"],
+  openSource:  "Eclipse JKube Contributor (10 months)",
+  hacktoberfest: "✅ 2024 Completed",
+  location:    "Bengaluru, India 🇮🇳",
+  funFact:     "I break things intentionally... most of the time 😅"
+};
 ```
 
+---
+
+## 💼 Experience
+
+**🔵 Full Stack Developer — [Eazytag](https://eazytag.com)** *(Oct 2025 – Present)*
+> Angular + TypeScript frontend · Spring Boot microservices · MongoDB · Multi-channel notifications (Email/SMS/WhatsApp)
+
+**🟢 OSS Engineer — [Eclipse JKube](https://github.com/eclipse-jkube/jkube)** *(May 2024 – Mar 2025)*
+> Refactored 15+ test modules · Replaced Mockito mocks with builder patterns · Reviewed by Principal Engineer Marc Nuri
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| [🎵 TuneHub](https://github.com/ShivamChavan01) | Spring Boot, MySQL, Razorpay | Music platform with RBAC + payment gateway |
+| [🎥 VidConnect](https://github.com/ShivamChavan01) | React, WebRTC, Socket.IO, Node.js | Real-time P2P video calling |
+| [📊 Jira CI/CD Panel](https://github.com/ShivamChavan01) | TypeScript, GitHub Actions API, Atlassian Forge | Hackathon — live pipeline dashboard in Jira |
+| [☸️ K8s Blue-Green Deploy](https://github.com/ShivamChavan01) | Kubernetes, Helm, Terraform, Prometheus | Zero-downtime deploy + Grafana monitoring |
+| [📧 Email Manager](https://github.com/ShivamChavan01) | Node.js, MongoDB, Kubernetes | Containerized email system with K8s LoadBalancer |
+
+---
+
+## 🛠️ Tech Stack
+
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=angular,react,typescript,javascript,html,css,tailwind" />
+</p>
+
+### ⚙️ Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,express" />
+</p>
+
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres" />
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,terraform,aws,jenkins,prometheus,grafana,linux,git" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShivamChavan01&theme=tokyonight&hide_border=true&show_icons=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShivamChavan01&theme=tokyonight&hide_border=true&layout=compact&langs_count=8" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ShivamChavan01&theme=tokyonight&hide_border=true" />
+</div>
+
+---
+
+## 🏆 Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ShivamChavan01&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=7" />
+</div>
+
+### 🎉 Hacktoberfest 2024
+[![Holopin Badges](https://holopin.me/shivamchavan01)](https://holopin.io/@shivamchavan01)
+
+---
+
+## 🔝 Top Contributions
+
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=ShivamChavan01&limit=5&theme=tokyonight&combine_all_yearly_contributions=true" />
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+  <img src="https://github.com/ShivamChavan01/ShivamChavan01/blob/output/github-contribution-grid-snake-dark.svg" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00FFBF,100:0d1117&height=120&section=footer" />
+</div>
