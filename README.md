@@ -141,7 +141,7 @@ Eclipse Foundation · Remote · Java · JUnit 5 · Mockito · TDD/BDD
   <img src="https://skillicons.dev/icons?i=vercel,supabase,raspberrypi" />
 </p>
 
-> Claude Code · OpenCode · GitHub Copilot · **MCP** · Agentic AI · Multi-Agent Systems · Voice AI · LLM API Integration (Groq · Anthropic · Gemini · OpenRouter) · Local STT/TTS (Whisper) · RAG · SSE Streaming
+> Claude Code · OpenCode · **MCP** · Agentic AI · Multi-Agent Systems · Voice AI · LLM API Integration (Groq · Anthropic · Gemini · OpenRouter) · Local STT/TTS (Whisper) · RAG · SSE Streaming
 
 ---
 
