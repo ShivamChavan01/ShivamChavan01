@@ -4,7 +4,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&duration=2000&pause=600&color=00FFBF&center=true&width=750&lines=VoiceScope+%E2%80%94+voice+AI+call+QA+with+a+7-layer+harness+%F0%9F%8E%A7;MCP+Foundry+%E2%80%94+spec+%E2%86%92+MCP+server+with+proof+loop+%F0%9F%94%A8;openagent+%E2%80%94+multi-tenant+chatbot+platform+with+SSE+streaming;voicecli+%E2%80%94+push-to-talk+layer+for+terminal+agents+%F0%9F%8E%99%EF%B8%8F;Full+Stack+Developer+%40+Eazytag+%F0%9F%9A%80;Java+17+%7C+Micronaut+4+%7C+Spring+Boot;Python+%7C+FastAPI+%7C+TypeScript+%7C+Angular;Eclipse+JKube+%26+OpenMetadata+Contributor+%F0%9F%94%A7;Published+npm+author+%E2%80%A2+supabase-lingo+%F0%9F%93%A6;Claude+Code+%2B+Cursor+daily+driver+%F0%9F%A4%96" />
+    <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&duration=2000&pause=600&color=00FFBF&center=true&width=750&lines=VoiceScope+%E2%80%94+voice+AI+call+QA+with+a+7-layer+harness+%F0%9F%8E%A7;MCP+Foundry+%E2%80%94+spec+%E2%86%92+MCP+server+with+proof+loop+%F0%9F%94%A8;openagent+%E2%80%94+multi-tenant+chatbot+platform+with+SSE+streaming;voicecli+%E2%80%94+push-to-talk+layer+for+terminal+agents+%F0%9F%8E%99%EF%B8%8F;Full+Stack+Developer+%40+Eazytag+%F0%9F%9A%80;Java+17+%7C+Micronaut+4+%7C+Spring+Boot;Python+%7C+FastAPI+%7C+TypeScript+%7C+Angular;Eclipse+JKube+%26+OpenMetadata+Contributor+%F0%9F%94%A7;Published+npm+author+%E2%80%A2+supabase-lingo+%F0%9F%93%A6;Claude+Code+%2B+OpenCode+daily+driver+%F0%9F%A4%96" />
   </a>
 </div>
 
@@ -52,7 +52,7 @@ const shivam: Engineer = {
     "promptarchitect-mcp — Socratic prompt engineering MCP server",
   ],
   published:   "supabase-lingo on npm 📦",
-  dailyDrivers: ["Claude Code", "Cursor"],
+  dailyDrivers: ["Claude Code", "OpenCode"],
   location:    "Bengaluru, India 🇮🇳",
   funFact:     "I built an AI that audits other AIs — and it actually passes its own tests 😅",
 };
@@ -141,7 +141,7 @@ Eclipse Foundation · Remote · Java · JUnit 5 · Mockito · TDD/BDD
   <img src="https://skillicons.dev/icons?i=vercel,supabase,raspberrypi" />
 </p>
 
-> Claude Code · Cursor · GitHub Copilot · **MCP** · Agentic AI · Multi-Agent Systems · Voice AI · LLM API Integration (Groq · Anthropic · Gemini · OpenRouter) · Local STT/TTS (Whisper) · RAG · SSE Streaming
+> Claude Code · OpenCode · GitHub Copilot · **MCP** · Agentic AI · Multi-Agent Systems · Voice AI · LLM API Integration (Groq · Anthropic · Gemini · OpenRouter) · Local STT/TTS (Whisper) · RAG · SSE Streaming
 
 ---
 
